@@ -1,2 +1,3 @@
-# proyecto-progra2
-Este es el proyecto final en que vamos a trabajar
+# Clases de progra2
+Acá vamos a trabajar los códigos de las distintas clases que vamos a ver durante la duración del modulo.
+Gracias!
